@@ -20,7 +20,7 @@
 - **Cross-Platform**: Kotlin Multiplatform
 
 
-# :mortar_board: Eduction
+# :mortar_board: Education
 I am a **3rd-year software engineering student** at *National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"*.
 
 # :u7533: Spoken Languages
