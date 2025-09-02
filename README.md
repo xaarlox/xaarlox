@@ -1,16 +1,29 @@
-## Hi there 👋
+# :clipboard: Information
 
-<!--
-**xaarlox/xaarlox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Profile | Contacts & Description |
+| :- | - |
+|- Name: *Valeriia Fedorenko* <br/>- Age: *19 y.o.* <br/>- Gender: *female*<br/>- Category: *Android Developer*|- Email: `xaarlox@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/xaarlox-valeriia-fedorenko/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work*|
 
-Here are some ideas to get you started:
+# :computer: Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
++ Main: **Kotlin**
++ Familiar with: **C, C++, Java, JavaScript, Python**
+
+## Android Development
+- **Architecture & Patterns**: SOLID, Clean Architecture, Multi-Module Architecture, MVVM, MVI
+- **Networking**: Retrofit2, Ktor Client
+- **Database**: Room
+- **DI**: Dagger 2, Hilt, Koin
+- **Testing**: JUnit4, Mockk, Turbine, Kotlin Test, Espresso, Compose UI Test, AndroidX Test
+- **UI**: Jetpack Compose
+- **Cross-Platform**: Kotlin Multiplatform
+
+
+# :mortar_board: Eduction
+I am a **3rd-year software engineering student** at *National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"*.
+
+# :u7533: Spoken Languages
+* `Ukrainian`: Native
+* `English`: B1 (Speaking), B2 (Writing)
+* `Chinese`: A1
