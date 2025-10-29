@@ -2,7 +2,7 @@
 
 | Profile | Contacts & Description |
 | :- | - |
-|- Name: *Valeriia Fedorenko* <br/>- Age: *19 y.o.* <br/>- Gender: *female*<br/>- Category: *Android Developer*|- Email: `xaarlox@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/xaarlox-valeriia-fedorenko/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work*|
+|- Name: *Valeriia Fedorenko* <br/>- Age: *20 y.o.* <br/>- Gender: *female*<br/>- Category: *Android Developer*|- Email: `xaarlox@gmail.com`<br/>- LinkedIn: [*link*](https://www.linkedin.com/in/xaarlox-valeriia-fedorenko/)<br/>- Location: 🇺🇦 <br/>- Status: *Open to work*|
 
 # :computer: Tech Stack
 
